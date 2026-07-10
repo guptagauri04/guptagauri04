@@ -53,6 +53,10 @@ Collection of beginner-friendly C++ DSA implementations.
 - Building stronger full-stack projects
 - Learning GenAI and LLM development
 - Improving problem-solving skills
+  
+![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptagauri04&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptagauri04&layout=compact)
 
 ## 📫 Connect With Me
 
