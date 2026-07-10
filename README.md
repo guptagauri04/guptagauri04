@@ -8,9 +8,9 @@
 
 💻 Passionate about Software Development, AI and Full-Stack Development
 
-🌱 Currently learning:
-- Data Structures and Algorithms in C++
-- React and Node.js
+## 🎯 Current Focus
+- Data Structures and Algorithms
+- Full-Stack Development
 - Generative AI and LLM Applications
 
 ![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptagauri04&show_icons=true&theme=github_dark)
