@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![C++](https://img.shields.io/badge/C++-DSA-orange)
+![React](https://img.shields.io/badge/React-Learning-61DAFB)
+![GenAI](https://img.shields.io/badge/GenAI-Exploring-green)
 # Hi there, I'm Gauri Gupta 👋
 
 🎓 Third Year B.Tech Student in Electrical Engineering (IIoT)
