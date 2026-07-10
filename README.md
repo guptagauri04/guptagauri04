@@ -13,9 +13,9 @@
 - React and Node.js
 - Generative AI and LLM Applications
 
-![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptagauri04&show_icons=true)
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptagauri04&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptagauri04&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptagauri04&layout=compact&theme=github_dark)
 
 ## 🛠 Tech Stack
 
